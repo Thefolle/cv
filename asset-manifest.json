@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.756af292.css",
-    "main.js": "/static/js/main.b15b1022.js",
+    "main.js": "/static/js/main.a9050420.js",
     "static/js/787.9416d7bc.chunk.js": "/static/js/787.9416d7bc.chunk.js",
     "static/media/relatech.png": "/static/media/relatech.96bd646c9fd573000df3.png",
     "static/media/logopolito.png": "/static/media/logopolito.438557cdc52663a38503.png",
     "static/media/foto.jpg": "/static/media/foto.fd527c6b418957c2525d.jpg",
     "index.html": "/index.html",
     "main.756af292.css.map": "/static/css/main.756af292.css.map",
-    "main.b15b1022.js.map": "/static/js/main.b15b1022.js.map",
+    "main.a9050420.js.map": "/static/js/main.a9050420.js.map",
     "787.9416d7bc.chunk.js.map": "/static/js/787.9416d7bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.756af292.css",
-    "static/js/main.b15b1022.js"
+    "static/js/main.a9050420.js"
   ]
 }
