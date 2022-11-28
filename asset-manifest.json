@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.bdc6d1b4.js",
+    "main.css": "/static/css/main.756af292.css",
+    "main.js": "/static/js/main.46df82f2.js",
     "static/js/787.9416d7bc.chunk.js": "/static/js/787.9416d7bc.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/relatech.png": "/static/media/relatech.96bd646c9fd573000df3.png",
+    "static/media/logopolito.png": "/static/media/logopolito.438557cdc52663a38503.png",
+    "static/media/foto.jpg": "/static/media/foto.fd527c6b418957c2525d.jpg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.bdc6d1b4.js.map": "/static/js/main.bdc6d1b4.js.map",
+    "main.756af292.css.map": "/static/css/main.756af292.css.map",
+    "main.46df82f2.js.map": "/static/js/main.46df82f2.js.map",
     "787.9416d7bc.chunk.js.map": "/static/js/787.9416d7bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.bdc6d1b4.js"
+    "static/css/main.756af292.css",
+    "static/js/main.46df82f2.js"
   ]
 }
