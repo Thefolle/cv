@@ -1,7 +1,8 @@
 name: prova-workflow
+run-name: Prova by $GITHUB_ACTOR
 
 on:
-  page_build
+  page_build:
 
 jobs:
   prova-job:
