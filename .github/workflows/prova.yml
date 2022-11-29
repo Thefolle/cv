@@ -1,0 +1,11 @@
+name: prova-workflow
+
+on:
+  page_build
+
+jobs:
+  prova-job:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v3
+      - run: bash
