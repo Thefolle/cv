@@ -1,5 +1,5 @@
 name: prova-workflow
-run-name: Prova by $GITHUB_ACTOR
+run-name: Prova by ${{ github.actor }}
 
 on:
   page_build:
